@@ -1,4 +1,6 @@
 This is my first git repo.
 This file is the description.
 
-changing in the second time.
+The second modification.
+
+Git is a distributed version control system.
